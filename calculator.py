@@ -21,7 +21,6 @@ print('''OPERATIONS
       3.Multiplication
       4.Division''')
 a=int(input("Select operation:"))
-5
 x= int(input("Enter first number: "))
 y= int(input("Enter second number: "))
 
